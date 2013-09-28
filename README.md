@@ -1,7 +1,4 @@
-Jenkins (deprecated)
-====================
+Jenkins
+=======
 
-Jenkins configuration file can now be found at 
-https://github.com/affinitic/affinitic.dist.
-
-Please use this file instead.
+Jenkins configuration base file.
